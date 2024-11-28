@@ -1,0 +1,809 @@
+Mountain|||Cordillera
+Statenland|||Statenland
+North Carolina 2|||北卡罗来纳2
+Colorado 2|||科罗拉多2
+Southern Manland|||南曼兰
+Lübeck|||吕贝克
+Petrozavodsk|||彼得罗扎沃茨克
+Ravenna|||拉韦纳
+Vrijheid|||弗赖海特
+Commodore|||海军准将
+A. Vespucci|||亚美瑞格·韦斯普奇
+Utah|||犹他
+Orlov|||奥尔洛夫
+O. Lilienthal|||奥托·李林塔尔
+P. Sigismund|||西吉斯蒙德亲王
+Admiral|||海军上将
+V. Monomakh|||弗拉基米尔·莫诺马赫
+[Zaō]|||[藏王]
+Montana 2|||蒙大拿2
+Iowa 2|||依阿华2
+[Yamato]|||[大和]
+[Montana]|||[蒙大拿]
+[Hakuryū]|||[白龙]
+[Midway]|||[中途岛]
+[Gearing]|||[基林]
+[Shimakaze]|||[岛风]
+Balao 2|||巴劳鱵2
+[Grozovoi]|||[雷暴]
+[Moskva]|||[莫斯科]
+[Hindenburg]|||[兴登堡]
+[G. Kurfürst]|||[大选帝侯]
+[Conqueror]|||[征服者]
+Taihō|||大凤
+[Audacious]|||[大胆]
+Essex|||埃塞克斯
+Kikaku|||毅鹤
+Concord Bridge|||康科德桥
+Frank Friday|||弗兰克·弗莱德
+AL Ägir|||AL 埃吉尔
+Volunteer State|||志愿者之州
+[Richelieu]|||[黎塞留]
+AL Hornet|||AL 大黄蜂
+[La Galissonnière]|||[拉加利索尼埃]
+AL Shimakaze|||AL 岛风
+Zaō CLR|||藏王CLR
+STAR Kitakaze|||星之北风
+STAR Edinburgh|||星之爱丁堡
+Ragnarok|||诸神的黄昏
+Ignis Purgatio|||Ignis Purgatio
+BA Montana|||BA蒙大拿
+BA Takahashi|||BA高梁
+BA Tirpitz|||BA提尔皮茨
+Kleber CLR|||克莱贝尔CLR
+Komissar|||科米萨尔
+Defence|||防卫
+Austin|||奥斯汀
+Cumberland|||坎伯兰
+Roon CLR|||罗恩CLR
+N. Carolina CLR|||北卡罗来纳CLR
+ARP Nachi|||ARP Nachi
+Wisconsin|||威斯康星
+Chikuma II Golden|||金色筑摩II
+Georgia|||佐治亚
+Wiesbaden|||威斯巴登
+E. Dragon|||东方神龙
+Duke of Bronte|||勃朗特公爵
+Rhode Island|||罗德岛
+Minegumo|||峰云
+Johnston|||约翰斯顿
+Tianjin|||天津
+Almte. Oquendo|||奥肯多海军上将
+Kozma Minin|||库兹马·米宁
+Chikuma II|||筑摩II
+Victoria|||维多利亚
+Ship Smasha|||Ship Smasha
+AL Yukikaze|||AL 雪风
+ARP Maya|||ARP Maya
+Cross of Dorn|||Cross of Dorn
+AL Montpelier|||AL 蒙彼利埃
+Theseus|||忒修斯
+Stord '43|||斯托德43
+Jupiter '42|||朱庇特42
+S. Dragon|||南方神龙
+Scharnhorst '43|||沙恩霍斯特43
+Rodney|||罗德尼
+Xin Zhong Guo 14|||新中国14
+Montcalm|||蒙卡尔姆
+Orion '44|||俄里翁44
+HSF Hiei|||HSF 比叡
+Archerfish|||射水鱼
+Ragnar|||朗纳尔
+La Pampa|||拉潘帕
+G. Hoffmann|||格奥尔格·霍夫曼
+Incheon|||仁川
+Svea|||斯维亚
+Sevastopol|||塞瓦斯托波尔
+Prins van Oranje|||奥兰治亲王
+Hildebrand|||希尔德布兰德
+Brennus|||布伦努斯
+Salem|||塞勒姆
+Sicilia|||西西里
+Shinano|||信浓
+Neustrashimy|||不惧
+Black|||布莱克
+ARP Haguro|||ARP Haguro
+AL Sov. Rossiya|||AL 苏维埃罗西亚
+Zhu Que|||朱雀
+HSF Harekaze|||HSF 晴风
+ARP Takao|||ARP Takao
+Xuan Wu|||玄武
+ARP Hiei|||ARP Hiei
+AL Littorio|||AL 利托里奥
+Alabama ST|||阿拉巴马 ST
+ARP Ashigara|||ARP Ashigara
+Flint|||弗林特
+ARP Haruna|||ARP Haruna
+California|||加利福尼亚
+Shinonome|||东云
+HSF Graf Spee|||HSF 海军上将施佩伯爵
+ARP Kirishima|||ARP Kirishima
+ARP Myōkō|||ARP Myōkō
+ARP Kongō|||ARP Kongō
+Texas|||德克萨斯
+ARP Yamato|||ARP Yamato
+Småland|||斯莫兰
+Tromp|||特龙普
+Z-42|||Z-42
+F. Sherman|||福雷斯特·谢尔曼
+Smolensk|||斯摩棱斯克
+Kitakami|||北上
+Gibraltar|||直布罗陀
+Puerto Rico|||波多黎各
+Mecklenburg|||梅克伦堡
+Incomparable|||无比
+M. Immelmann|||马克斯·殷麦曼
+S. Thunder|||猩红雷霆
+Gorizia|||戈里齐亚
+Makarov|||马卡罗夫海军上将
+Alaska B|||阿拉斯加 B
+Pommern B|||波美拉尼亚 B
+Jean Bart B|||让·巴尔 B
+Kearsarge B|||奇尔沙治 B
+Loyang B|||洛阳 B
+Asashio B|||朝潮 B
+Cossack B|||哥萨克人 B
+Atago B|||爱宕 B
+Mainz B|||美因茨 B
+Tirpitz B|||提尔皮茨 B
+Massachusetts B|||马萨诸塞 B
+Chkalov B|||契卡洛夫 B
+Kaga B|||加贺 B
+Graf Zeppelin B|||齐柏林伯爵 B
+Saipan B|||塞班 B
+Sims B|||西姆斯 B
+Boise|||博伊西
+Scharnhorst B|||沙恩霍斯特 B
+Shinonome B|||东云 B
+Dunkerque B|||敦刻尔克 B
+Yoshino B|||吉野 B
+Napoli B|||那不勒斯 B
+Atlanta B|||亚特兰大 B
+Lazo B|||拉佐 B
+Iwami B|||石见 B
+D. Pozharsky|||德米特里·波扎尔斯基
+AL Cheshire|||AL 柴郡
+Tsurugi|||剑
+Bagration|||巴格拉季昂
+Nottingham|||诺丁汉
+San Diego|||圣地亚哥
+Picardie|||皮卡第
+Renown '44|||声望44
+Louchuan|||楼船
+Daisen|||大山
+Illinois|||伊利诺伊
+P. Bagration|||彼得罗·巴格拉季昂
+Hampshire|||汉普郡
+Rochester|||罗彻斯特
+Brandenburg B|||勃兰登堡 B
+Flandre|||弗兰德尔
+Constellation|||星座
+Hornet|||大黄蜂
+Collingwood|||科林伍德
+Repulse B|||反击 B
+Smolensk B|||斯摩棱斯克 B
+ZF-6|||ZF-6
+Black B|||布莱克 B
+Mengchong|||蒙冲
+Schroder|||施罗德
+Sun Yat-Sen|||载之
+Iwami|||石见
+HSF Harekaze II|||HSF 晴风 II
+Ochakov|||奥恰科夫
+Schill|||席尔
+Belfast '43|||贝尔法斯特43
+Congress|||国会
+Borodino|||博罗季诺
+Anhalt|||安哈尔特
+Champagne|||香槟
+Alabama VL|||阿拉巴马 VL
+Colossus|||巨像
+Saipan|||塞班
+Duke of York|||约克公爵
+W. Virginia '44|||西弗吉尼亚44
+Dido|||黛朵
+Ise|||伊势
+Repulse|||反击
+Kirov|||基洛夫
+AL Avrora|||AL 阿芙乐尔
+Yoshino|||吉野
+Jäger|||耶格尔
+Z-44|||Z-44
+Somme|||索姆河
+Halford|||哈尔福德
+AL Azuma|||AL 吾妻
+Michelangelo|||米开朗基罗
+Ägir|||埃吉尔
+Tulsa|||塔尔萨
+Wujing|||悟净
+Hizen|||肥前
+Giuseppe Verdi|||朱塞佩·威尔第
+Kearsarge|||奇尔沙治
+I-56|||I-56
+Fenyang|||汾阳
+Asashio|||朝潮
+Z-35|||Z-35
+Wukong|||悟空
+Lazo|||拉佐
+Mainz|||美因茨
+Tiger '59|||虎59
+Anchorage|||安克雷奇
+Lenin|||列宁
+Brandenburg|||勃兰登堡
+Jean Bart|||让·巴尔
+Massachusetts|||马萨诸塞
+Kaga|||加贺
+Graf Zeppelin|||齐柏林伯爵
+Ark Royal|||皇家方舟
+Enterprise|||企业
+Huron|||休伦
+Tashkent '39|||塔什干39
+Cossack|||哥萨克人
+Maya|||摩耶
+F. Ferruccio|||弗朗切斯科·费鲁乔
+Weimar|||魏玛
+Hyūga|||日向
+AL P. Heinrich|||AL 海因里希亲王
+Nelson|||纳尔逊
+Florida|||佛罗里达
+K. Schönberg|||卡尔·冯·勋伯格
+Mysore|||迈索尔
+Leipzig|||莱比锡
+Dupleix|||杜布雷
+London|||伦敦
+Novorossiysk|||新罗西斯克
+Mikoyan|||米高扬
+Varyag|||瓦良格
+U-4501|||U-4501
+Gato|||猫鲨
+Lüshun|||旅顺
+Friesland|||弗里斯兰
+Vampire II|||吸血鬼II
+Álvaro de Bazán|||阿尔瓦罗·德·巴赞
+Hayate|||疾风
+Druid|||德鲁伊
+Somers|||萨默斯
+Brisbane|||布里斯班
+Stalingrad|||斯大林格勒
+Azuma|||吾妻
+Napoli|||那不勒斯
+Colbert|||科尔伯特
+Plymouth|||普利茅斯
+Alaska|||阿拉斯加
+Slava|||光荣
+Shikishima|||敷岛
+R. Lauria|||鲁杰罗·迪·劳里亚
+Bourgogne|||勃艮第
+Thunderer|||雷神
+Ohio|||俄亥俄
+W. Voss|||沃纳·沃斯
+Malta|||马耳他
+F. D. Roosevelt|||富兰克林·罗斯福
+Velos|||贝洛斯
+Paolo Emilio|||保罗·埃米利奥
+Groningen|||格罗宁根
+Benham|||贝纳姆
+Dalian|||大连
+Hector|||赫克托耳
+Kronshtadt|||喀琅施塔得
+Van Speijk|||范·斯佩克
+Siegfried|||齐格菲
+Carnot|||卡诺
+Vallejo|||瓦列霍
+Bajie|||八戒
+Karl XIV Johan|||卡尔十四世·约翰
+Navarin|||纳瓦林
+Musashi|||武藏
+Marco Polo|||马可波罗
+Pommern|||波美拉尼亚
+Marlborough|||马尔博罗
+Missouri|||密苏里
+S-189|||S-189
+Alliance|||联盟
+Loyang|||洛阳
+Orkan|||奥坎
+Z-39|||Z-39
+Le Terrible|||可怖
+Kidd|||基德
+Irian|||伊里安
+Almte. Grau|||格劳海军上将
+Numancia|||努曼西亚
+Kutuzov|||米哈伊尔·库图佐夫
+De 7 Provinciën|||七省
+Prinz Eugen|||欧根亲王
+Bayard|||贝亚德
+Cheshire|||柴郡
+Wichita|||威奇塔
+Atlântico|||大西洋
+Poltava|||波尔塔瓦
+Kii|||纪伊
+Roma|||罗马
+Odin|||奥丁
+Gascogne|||加斯科涅
+Vanguard|||前卫
+Alabama|||阿拉巴马
+Sanzang|||三藏
+Chkalov|||契卡洛夫
+Aquila|||天鹰
+Indomitable|||不挠
+Haida|||海达人
+Leningrad|||列宁格勒
+Yūdachi|||夕立
+FR25|||FR25
+Nueve de Julio|||七月九日
+Tokachi|||十胜
+Abruzzi|||阿布鲁齐公爵
+München|||慕尼黑
+Toulon|||土伦
+Belfast|||贝尔法斯特
+Indianapolis|||印第安纳波利斯
+Yukon|||育空
+Ashitaka|||爱鹰
+Scharnhorst|||沙恩霍斯特
+Strasbourg|||斯特拉斯堡
+Hood|||胡德
+W. Virginia '41|||西弗吉尼亚41
+Anshan|||鞍山
+Juruá|||茹鲁阿
+Leone|||狮子
+T-61|||T-61
+Aigle|||鹰
+Gallant|||勇敢
+Monaghan|||莫纳汉
+Huanghe|||黄河
+Elli|||埃利
+Perth|||珀斯
+Canarias|||加那利
+Molotov|||莫洛托夫
+Duca d'Aosta|||奥斯塔公爵
+Graf Spee|||海军上将施佩伯爵
+De Grasse|||格拉斯
+Mutsu|||陆奥
+P. E. Friedrich|||艾特尔·弗里德里希亲王
+Dunkerque|||敦刻尔克
+Arizona|||亚利桑那
+E. Loewenhardt|||埃里希·勒文哈尔特
+Béarn|||贝阿恩
+Okhotnik|||猎人
+Hill|||希尔
+Krasny Krym|||红色克里米亚
+Yahagi|||矢矧
+Genova|||热那亚
+Exeter|||埃克塞特
+Rattlehead|||受害骷髅
+Rio de Janeiro|||里约热内卢
+Okt. Revolutsiya|||十月革命
+Giulio Cesare|||尤里乌斯-恺撒
+Agincourt|||阿金库尔
+Oklahoma|||俄克拉荷马
+Siroco|||热风
+Viribus Unitis|||联合力量
+Vampire|||吸血鬼
+Campbeltown|||坎贝尔敦
+Ning Hai|||宁海
+Oleg|||奥列格
+Katori|||香取
+Charleston|||查尔斯顿
+K. Albert|||阿尔伯特国王
+Dreadnought|||无畏
+Smith|||史密斯
+Alm. Abreu|||阿布瑞尤海军上将
+Emden|||埃姆登
+Błyskawica|||闪电
+Delny|||德尔尼
+Tashkent|||塔什干
+Petropavlovsk|||彼得罗巴甫洛夫斯克
+Preussen|||普鲁士
+Kiev|||基辅
+Kitakaze|||北风
+Kotovsky|||科托夫斯基
+U-2501|||U-2501
+Balao|||巴劳鱵
+Gdańsk|||格但斯克
+Grozovoi|||雷暴
+Harugumo|||春云
+Elbing|||埃尔宾
+Marceau|||玛索
+A. Nevsky|||亚历山大·涅夫斯基
+Yodo|||淀
+Marseille|||马赛
+Goliath|||哥利亚
+Worcester|||伍斯特
+Bungo|||丰后
+Schlieffen|||施里芬
+St. Vincent|||圣文森特
+Louisiana|||路易斯安那
+Audacious|||大胆
+L. Katsonis|||兰布罗斯·卡措尼斯
+Yūgumo|||夕云
+F. Schultz|||菲利克斯·舒尔茨
+Riga|||里加
+Takahashi|||高梁
+Brest|||布雷斯特
+Drake|||德雷克
+Seattle|||西雅图
+Adatara|||安达太良
+P. Rupprecht|||鲁普雷希特亲王
+Duncan|||邓肯
+Delaware|||特拉华
+U-190|||U-190
+Salmon|||鲑鱼
+Siliwangi|||西利旺义
+Split|||斯普利特
+Ognevoi|||火力
+Kagerō|||阳炎
+G. J. Maerker|||G.J.梅克尔
+Tallinn|||塔林
+Shimanto|||四万十
+Cherbourg|||瑟堡
+Albemarle|||阿尔伯马尔
+Cleveland|||克利夫兰
+Yumihari|||弓张
+Zieten|||齐滕
+Hawke|||霍克
+Nebraska|||内布拉斯加
+Grom|||雷霆
+Minsk|||明斯克
+Shiratsuyu|||白露
+Z-31|||Z-31
+Omono|||雄物
+Surrey|||萨里
+Helena|||海伦娜
+P. Heinrich|||海因里希亲王
+Rooke|||鲁克
+U-69|||U-69
+Cachalot|||抹香鲸
+Stord|||斯托德
+Gnevny|||愤怒
+Hatsuharu|||初春
+Gokase|||五濑
+Devonshire|||德文郡
+Dallas|||达拉斯
+Mackensen|||马肯森
+Renown|||声望
+Muavenet|||穆阿维内特
+Podvoisky|||巴铎夫斯基
+Agano|||阿贺野
+Hawkins|||霍金斯
+Derfflinger|||德弗林格尔
+Tiger|||虎
+Moltke|||毛奇
+Queen Mary|||玛丽女王
+Hermes|||竞技神
+Von der Tann|||冯·德·坦恩
+Indefatigable|||不倦
+Kunming|||昆明
+Dalarna|||达拉纳
+Zorkiy|||佐尔基
+Yamagiri|||山雾
+J. Humphreys|||约书亚·汉弗莱斯
+Novosibirsk|||新西伯利亚
+Piemonte|||皮埃蒙特
+Clausewitz|||克劳塞维茨
+Condé|||孔代
+Edgar|||埃德加
+Annapolis|||安纳波利斯
+Ushakov|||乌沙科夫
+Satsuma|||萨摩
+Hannover|||汉诺威
+Patrie|||祖国
+Devastation|||毁灭
+Maine|||缅因
+Sekiryu|||赤龙
+Eagle|||老鹰
+United States|||合众国
+K-1|||K-1
+Thrasher|||长尾鲨
+Yueyang|||岳阳
+Halland|||哈兰
+Khabarovsk|||哈巴罗夫斯克
+A. Regolo|||阿蒂略·莱戈洛
+Z-52|||Z-52
+Kléber|||克莱贝尔
+Daring|||果敢
+Jinan|||济南
+San Martín|||圣马丁
+Castilla|||卡斯蒂利亚
+Moskva|||莫斯科
+Venezia|||威尼斯
+Gouden Leeuw|||金狮
+Hindenburg|||兴登堡
+Henri IV|||亨利四世
+Minotaur|||米诺陶
+Kremlin|||克里姆林
+C. Colombo|||克里斯托弗·哥伦布
+G. Kurfürst|||大选帝侯
+République|||共和国
+Conqueror|||征服者
+Vermont|||佛蒙特
+Nakhimov|||纳希莫夫
+Hakuryū|||白龙
+M. Richthofen|||M·里希特霍芬
+Midway|||中途岛
+Chung Mu|||忠武
+Östergötland|||东约特兰
+Adriatico|||亚得里亚
+Z-46|||Z-46
+Mogador|||莫加多尔
+Jutland|||日德兰
+Sejong|||世宗
+Santander|||桑坦德
+Andalucía|||安达卢西亚
+Dm. Donskoi|||迪米特里-顿斯科伊
+Brindisi|||布林迪西
+Johan de Witt|||约翰·德·维特
+Roon|||罗恩
+Saint-Louis|||路易九世
+Neptune|||涅普顿
+Buffalo|||水牛城
+Sov. Soyuz|||苏联
+Lepanto|||勒班陀
+F. der Grosse|||腓特烈大帝
+Alsace|||阿尔萨斯
+Lion|||狮
+Minnesota|||明尼苏达
+L-20|||L-20
+Sturdy|||强健
+Hsienyang|||咸阳
+Öland|||厄兰
+Akizuki|||秋月
+V. Cuniberti|||维托里奥·库尼贝尔蒂
+Z-23|||Z-23
+Le Fantasque|||空想
+Lightning|||雷电
+Harbin|||哈尔滨
+I. Allende|||伊格纳西奥·阿连德
+Cataluña|||加泰罗尼亚
+Chapayev|||恰巴耶夫
+Amalfi|||阿马尔菲
+Haarlem|||哈勒姆
+Hipper|||希佩尔上将
+Charles Martel|||查理-马特
+Edinburgh|||爱丁堡
+Baltimore|||巴尔的摩
+Vladivostok|||符拉迪沃斯托克
+V. Veneto|||维托里奥·维内托
+Bismarck|||俾斯麦
+Richelieu|||黎塞留
+Monarch|||君主
+Kansas|||堪萨斯
+Pobeda|||胜利
+Shōkaku|||翔鹤
+A. Parseval|||奥古斯特·冯·帕塞瓦尔
+Implacable|||怨仇
+Lexington|||列克星敦
+Gadjah Mada|||加札马达
+Skåne|||斯科讷
+Udaloi|||乌达洛伊
+Akatsuki|||晓
+L. Tarigo|||卢卡·塔里戈
+Maass|||莱伯勒希特-马斯
+Vauquelin|||沃克兰
+Jervis|||杰维斯
+Chumphon|||春蓬
+Cnel. Bolognesi|||博洛涅西上校
+Asturias|||阿斯图里亚斯
+Shchors|||肖尔斯
+Zara|||扎拉
+Eendracht|||团结
+Yorck|||约克
+Algérie|||阿尔及利亚
+Fiji|||斐济
+New Orleans|||新奥尔良
+Sinop|||锡诺普
+F. Caracciolo|||弗朗切斯科·卡拉乔洛
+Gneisenau|||格奈森瑙
+Lyon|||里昂
+King George V|||英王乔治五世
+S-1|||S-1
+Undine|||温蒂妮
+Fushun|||抚顺
+Västerås|||韦斯特罗斯
+Fubuki|||吹雪
+Aviere|||阿维埃尔
+Gaede|||恩斯特-盖德
+Guépard|||猎豹
+Icarus|||伊卡洛斯
+Rahmat|||拉赫马特
+Almte. Cochrane|||科克伦海军上将
+Baleares|||巴利阿里
+Budyonny|||布琼尼
+Trento|||特伦托
+Kijkduin|||凯敦
+Nürnberg|||纽伦堡
+La Galissonnière|||拉加利索尼埃
+Leander|||利安得
+Pensacola|||彭萨科拉
+Izmail|||伊兹梅尔
+Andrea Doria|||安德烈亚·多里亚
+Bayern|||巴伐利亚
+Normandie|||诺曼底
+Queen Elizabeth|||伊丽莎白女王
+Serov|||谢罗夫
+Ryūjō|||龙骧
+Weser|||威悉河
+Furious|||暴怒
+Ranger|||突击者
+Jianwei|||建威
+Visby|||维斯比
+Mutsuki|||睦月
+Maestrale|||西北风
+T-22|||T-22
+Jaguar|||美洲豹
+Acasta|||阿卡斯塔
+Chungking|||重庆
+La Argentina|||阿根廷
+Galicia|||加利西亚
+Montecuccoli|||莱蒙多·蒙德库克利
+Celebes|||西里伯斯
+Königsberg|||柯尼斯堡
+Émile Bertin|||白劳易
+Emerald|||翡翠
+Pyotr Velikiy|||彼得大帝
+Cavour|||加富尔伯爵
+König|||国王
+Bretagne|||布列塔尼
+Iron Duke|||铁公爵
+Shenyang|||沈阳
+Klas Horn|||克拉斯·霍恩
+Izyaslav|||伊贾斯拉夫
+Turbine|||图尔比内
+V-170|||V-170
+Bourrasque|||狂风
+Wakeful|||清醒
+Córdoba|||科尔多瓦
+Almte. Cervera|||塞韦拉海军上将
+Svietlana|||斯维特拉那
+Giussano|||阿尔贝托·迪·朱桑诺
+De Ruyter|||德·鲁伊特
+Karlsruhe|||卡尔斯鲁厄
+Duguay-Trouin|||迪盖-特鲁安
+Danae|||达娜厄
+Gangut|||甘古特
+D. Alighieri|||但丁·阿利格伊切里
+Kaiser|||凯撒
+Courbet|||孤拔
+Orion|||俄里翁
+Komsomolets|||共青团员
+Hōshō|||凤翔
+Rhein|||莱茵河
+Langley|||兰利
+Phra Ruang|||帕禳
+Romulus|||罗慕路斯
+Derzki|||无理
+N. Sauro|||纳扎里奥·萨乌罗
+G-101|||G-101
+Fusilier|||燧发枪兵
+Valkyrie|||女武神
+V. Guerrero|||维森特·格雷罗
+Navarra|||纳瓦拉
+Bogatyr|||博加特里
+Taranto|||塔兰托
+Java|||爪哇
+Kolberg|||科尔贝格
+Friant|||弗利昂
+Caledon|||卡利登
+Knyaz Suvorov|||苏沃洛夫公爵
+Nassau|||拿骚
+Turenne|||杜伦尼
+Bellerophon|||柏勒罗丰
+Longjiang|||龙江
+Tátra|||塔特拉
+Storozhevoi|||守卫
+Curtatone|||库尔塔托内
+V-25|||V-25
+En. Gabolde|||加博尔德海军少尉
+Medea|||美狄亚
+Alm. Barroso|||巴罗索海军上将
+Méndez Núñez|||门德斯·努涅斯
+Novik|||诺维克
+Nino Bixio|||尼诺·比西奥
+Gelderland|||海尔德兰
+Jurien|||尤里安-格拉维
+Weymouth|||韦茅斯
+Chengan|||成安
+Gryf|||狮鹫
+Hércules|||赫丘利
+Júpiter|||朱庇特
+Orlan|||海雕
+Eritrea|||厄立特里亚
+Van Kinsbergen|||范·金斯伯根
+Bougainville|||布甘维尔
+Black Swan|||黑天鹅
+Marblehead L|||马布尔黑德 L
+Marblehead|||马布尔黑德
+Atago|||爱宕
+Hashidate|||桥立
+Chikuma|||筑摩
+Zaō|||藏王
+New Mexico|||新墨西哥
+Sims|||西姆斯
+Yorktown|||约克城
+Wickes|||维克斯
+Kamikaze R|||神风 R
+Iwaki A|||岩城 Alpha
+Independence|||独立
+Kamikaze|||神风
+Wakatake|||若竹
+Phoenix|||凤凰城
+Fletcher|||弗莱彻
+Izumo|||出云
+Monmouth|||蒙茅斯
+Des Moines|||得梅因
+Essex|||埃塞克斯
+Orage|||暴风雨
+Clemson|||克莱姆森
+Encounter|||遭遇
+Los Andes|||安第斯
+L'Aventurier|||冒险家
+Auckland|||奥克兰
+Tone|||利根
+Ipiranga|||伊皮兰加
+Yamato|||大和
+Iowa|||依阿华
+Fūjin|||风神
+Le Hardi|||斗胆
+Uganda|||乌干达
+Montana|||蒙大拿
+Duchaffault|||杜沙福
+Hobart|||霍巴特
+L'Adroit|||机敏
+Delhi|||德里
+Tenryū|||天龙
+Tachibana L|||橘 Lima
+Nicholas|||尼古拉斯
+Dunedin|||达尼丁
+Gearing|||基林
+Caradoc|||卡拉多克
+Kuma|||球磨
+Amagi|||天城
+Arkansas B|||阿肯色 B
+Shimakaze|||岛风
+Port Jackson|||杰克逊港
+Ibuki|||伊吹
+N. Carolina|||北卡罗来纳
+Jacksonville|||杰克逊维尔
+Mikasa|||三笠
+Cassard|||卡萨尔
+Cerberus|||刻耳柏洛斯
+Diana L|||狄安娜 L
+Libertad|||自由
+Nagato|||长门
+Mogami|||最上
+Benson|||本森
+Myōkō|||妙高
+Ishizuchi|||石锤
+Colorado|||科罗拉多
+Aoba|||青叶
+Kongō|||金刚
+Mahan|||马汉
+Atlanta|||亚特兰大
+Fusō|||扶桑
+New York|||纽约
+Farragut|||法拉格特
+Furutaka|||古鹰
+Omaha|||奥马哈
+Minekaze|||峰风
+Yūbari|||夕张
+St. Louis|||圣路易斯
+Wyoming|||怀俄明
+Isokaze|||矶风
+Murmansk|||摩尔曼斯克
+Albany|||奥尔巴尼
+Myōgi|||妙义
+Umikaze|||海风
+Sampson|||桑普森
+Diana|||狄安娜
+Dresden|||德累斯顿
+Chester|||切斯特
+Tirpitz|||提尔皮茨
+Warspite|||厌战
+Gremyashchy|||轰鸣
+Tachibana|||橘
+Sutlej|||萨特莱杰
+Aurora|||阿芙乐尔
+Hermelin|||鼬
+Erie|||伊利
+Nikolai I|||沙皇尼古拉一世
+Kawachi|||河内
+S. Carolina|||南卡罗来纳

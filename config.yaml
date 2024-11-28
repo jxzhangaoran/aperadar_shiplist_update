@@ -1,0 +1,9 @@
+translate:
+  baidu:
+    host: "https://fanyi-api.baidu.com/api/trans/vip/translate"
+    appid: "your appid here"
+    secret_key: "your secret key here"
+
+wargaming:
+  appid: "your appid here"
+  host: "https://api.worldofwarships.asia/"
