@@ -96,8 +96,6 @@ class FanHeXie:
 
 
 if __name__ == '__main__':
-    # wargaming_api_util = WarGamingApiUtil('48328ff7ffffd55ee96f59632ed3bcde')
-    # ships = wargaming_api_util.get_all_ships()
     ships = {
         "3425613520": {
             "name_en-us": "Azuma B",
